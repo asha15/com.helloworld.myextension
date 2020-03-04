@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/my-first-page</path>
+    <page_callback>CRM_Myextension_Page_MyFirstPage</page_callback>
+    <title>MyFirstPage</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
